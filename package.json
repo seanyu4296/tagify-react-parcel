@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@yaireo/tagify": "^3.7.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
